@@ -1,0 +1,12 @@
+{
+    "name": "Agro Field Tracking Video Sample Annotated",
+    "description": "Annotated sample project with drone footage of agricultural fields featuring tracked field boundaries, crop zones, roads, and tractor tracks.",
+    "type": "project",
+    "categories": [
+        "import",
+        "videos",
+        "project"
+    ],
+    "icon": "https://github.com/supervisely-ecosystem/agro-field-tracking-video-sample-annotated/releases/download/v1.0.0/icon4.png",
+    "icon_cover": true
+}
